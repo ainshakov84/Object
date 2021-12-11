@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Класс и метод", "Класс и метод\Класс и метод.csproj", "{3D0B39A6-3161-4EE8-800D-02BD29DB4AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нахождение угла", "Нахождение угла\Нахождение угла.csproj", "{F79A40A9-55D5-4122-B7F5-28D4023EDDB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "из. учебника 6.1", "из. учебника 6.1\из. учебника 6.1.csproj", "{A22A0B34-CDA1-49D1-82D2-BB22602080FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 10", "Задание 10\Задание 10.csproj", "{1746C6F6-61E2-4B29-90A1-58BD5066AC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0B39A6-3161-4EE8-800D-02BD29DB4AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0B39A6-3161-4EE8-800D-02BD29DB4AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0B39A6-3161-4EE8-800D-02BD29DB4AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0B39A6-3161-4EE8-800D-02BD29DB4AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79A40A9-55D5-4122-B7F5-28D4023EDDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79A40A9-55D5-4122-B7F5-28D4023EDDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79A40A9-55D5-4122-B7F5-28D4023EDDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79A40A9-55D5-4122-B7F5-28D4023EDDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22A0B34-CDA1-49D1-82D2-BB22602080FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22A0B34-CDA1-49D1-82D2-BB22602080FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22A0B34-CDA1-49D1-82D2-BB22602080FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22A0B34-CDA1-49D1-82D2-BB22602080FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1746C6F6-61E2-4B29-90A1-58BD5066AC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1746C6F6-61E2-4B29-90A1-58BD5066AC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1746C6F6-61E2-4B29-90A1-58BD5066AC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1746C6F6-61E2-4B29-90A1-58BD5066AC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A559A9-11F0-49A4-A84C-F65B62B43ECE}
+	EndGlobalSection
+EndGlobal
